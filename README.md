@@ -23,8 +23,4 @@ Una vez configurado el ``.env`` solo necesitaremos ejecutar ``php artisan serve`
 
 ## Iniciar aplicación
 
-Al iniciar el proyecto (http://localhost:8000 por defecto) nos mandará al login, los accesos son los siguientes: 
-   
-   ``email: santiago.echeverri@grupokonecta.com password: 123456``
-    
-También es posible registrarnos en la aplicación. 
+Al iniciar el proyecto (http://localhost:8000 por defecto) nos mandará al login, nos dirigimos al ``registro`` y nos registramos. Posteriormente nos logueamos. 
